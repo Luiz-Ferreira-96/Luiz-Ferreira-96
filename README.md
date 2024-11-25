@@ -2,8 +2,8 @@
 
 <div align="">
   <a href="https://github.com/Luiz-Ferreira-96">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Ferreira-96&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Ferreira-96&count_private=true&hide_border=false&&layout=compact"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Ferreira-96&count_private=true&include_all_commits=true&theme=dark&show_icons=true&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Ferreira-96&hide_border=false&theme=dark&layout=compact"/>
   </a>
 </div>
 
