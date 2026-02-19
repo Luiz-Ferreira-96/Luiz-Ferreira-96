@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Luiz-Ferreira-96">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Ferreira-96&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&hide_border=true&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Ferreira-96&hide_border=true&theme=transparent&layout=compact"/>
+    <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
+    <img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
   </a>
 </div>
 
